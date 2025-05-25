@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marek and I'm a Computer Science student, from Czechia</h2>
+<h2 align="center">Hi 👋! My name is Marek and I'm a Computer Science student, from Czechia</h2>
 
 ###
 
@@ -23,14 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"  />
 </div>
 
 ###
